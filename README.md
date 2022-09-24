@@ -1,7 +1,7 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hammad%20Developer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Hammad</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2BmYfwb-Vpser-WLfzD8NZ&ust=1664092666730000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDF-LT6rPoCFQAAAAAdAAAAABAK" alt="coding" align="right" width="400" />
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="coding" align="right" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadhz&label=Profile%20views&color=0e75b6&style=flat" alt="hammadhz" /> </p>
 
 - 🔭 I’m currently working on Ecommerce Site **Freshnesecom**
