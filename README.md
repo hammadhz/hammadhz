@@ -1,10 +1,9 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hammad%20Dev%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadhz&label=Profile%20views&color=0e75b6&style=flat" alt="hammadhz" /> </p>
 
 # 💫 About Me:
-I'm currently working on **OneERP**<br>I'm currently learning **NODE.JS**<br>Ask me about **react, node, tailwindcss, express, mongodb**<br>
 <h1 align="center">Hi 👋, I'm Hammad</h1><br>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">A passionate MERN Stack developer</h3><br>
+I'm currently working on **OneERP**<br>I'm currently learning **NODE.JS**<br>Ask me about **react, node, tailwindcss, express, mongodb**<br>
 <br>
 
 
