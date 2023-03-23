@@ -1,6 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hammad%20Dev%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Hammad</h1><br>
 <h3 align="center">A passionate MERN Stack developer</h3><br>
 I'm currently working on **OneERP**<br>I'm currently learning **NODE.JS**<br>Ask me about **react, node, tailwindcss, express, mongodb**<br>
