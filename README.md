@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Hammad</h1><br>
 ### <h3 align="center">A passionate MERN Stack developer</h3><br>
-I'm currently working on **oneGOLd**<br>I'm currently learning **NODE.JS**<br>Ask me about **react, node, tailwindcss, express, mongodb**<br>
+I'm currently working on **SportsWorld**<br>Ask me about **react, node, tailwindcss, express, mongodb**<br>
 <br>
 
 
