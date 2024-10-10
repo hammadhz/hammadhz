@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **OneTranzact**
+- 🔭 I’m currently working on **SolveCard**
 
 - 🌱 I’m currently learning **Nodejs**
 
