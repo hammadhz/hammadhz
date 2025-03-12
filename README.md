@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [www.hammadhz.com](www.hammadhz.com)
-
 - 💬 Ask me about **react, nextjs, redux**
 
 - 📫 How to reach me **hammadazmrauf@gmail.com**
