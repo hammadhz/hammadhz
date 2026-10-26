@@ -21,12 +21,6 @@ Building modern, scalable, and user-focused web applications 🚀
 
 ---
 
-## 🌐 Portfolio
-🔗 **Live Portfolio:**  
-👉 https://hammadhz-portfolio.vercel.app/
-
----
-
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **Multi Restaurant**
